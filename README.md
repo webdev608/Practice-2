@@ -4,7 +4,8 @@ because this is fun
 	<html>
 		<head>
 			
-			<title>haene safavi</title>
+
+
 
 			<style>
 				h1 {
