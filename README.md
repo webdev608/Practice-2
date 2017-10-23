@@ -4,7 +4,7 @@ because this is fun
 	<html>
 		<head>
 			
-
+p {color: white}
 
 			<style>
 				h1 {
